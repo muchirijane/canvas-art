@@ -12,3 +12,6 @@ Got to learn a lot about different methods and properties that can make you adju
   <li>lineTo()</li>
   <li>stroke()</li>
 </ul>
+<br>
+<br>
+<img src ='img/image.png'>

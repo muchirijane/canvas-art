@@ -14,4 +14,4 @@ Got to learn a lot about different methods and properties that can make you adju
 </ul>
 <br>
 <br>
-<img src ='img/image.png'>
+<img src ='img/image.png' width= '900px'>
